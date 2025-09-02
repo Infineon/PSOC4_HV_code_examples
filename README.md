@@ -57,5 +57,5 @@ The code examples support the following types of boards: <br>
 |Shield2go                          |✓                        |✓                        |✓                        |
 |MikroBUS                           |✓                        |✓                        |✓                        |
 
-KIT_PSOC4-HVPA-144K_LITE supports LIN slave configuration only
+*1: KIT_PSOC4-HVPA-144K_LITE supports LIN slave configuration only
 <BR>
