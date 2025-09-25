@@ -59,3 +59,9 @@ The code examples support the following types of boards: <br>
 
 *1: KIT_PSOC4-HVPA-144K_LITE supports LIN slave configuration only
 <BR>
+
+## Developer Community
+For questions and support, use the PSOC&trade; 4 HVMS Forum:  
+- <https://community.infineon.com/t5/PSOC-Automotive/bd-p/psocautomotive>
+
+
