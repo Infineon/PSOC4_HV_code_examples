@@ -25,16 +25,13 @@ Please refer the [ModusToolbox&#8482; software](https://github.com/Infineon/modu
 [AN0034](https://www.infineon.com/assets/row/public/documents/10/42/infineon-an0034-getting-started-with-psoc-4-hv-ms-mcus-in-modustoolbox-applicationnotes-en.pdf) - Getting started with PSOC&#8482; 4 HV MCUs in ModusToolbox&#8482;
 
 ## Code Example
-Each Code example provides a README.md file to learn more about that code example, as well as how to use it to create an application. Each README.md contains the following information:
+Each Code example provides a README.md file to learn more about that code example, as well as how to use it to create an application.
 
-- **Device**: The devices used by code example
-- **Board**: The evaluation kit used by code example
-- **Scope of work**: An abstract of code example
-- **Introduction**: A generic introduction on the used module and it main features
-- **Hardware setup**: The used hardware and how to configure it
-- **Implementation**: A detailed explanation of how to implement the module's configuration using HAL and/or PDL and exploits their features
-- **Run and Test**: The steps to follow to make sure the code is working properly and interact with it
-- **References**: Related documents and web pages
+## How to apply ModusToolbox&#8482; to your own hardware
+All ModusToolbox&#8482; applications require a target BSP. Infineon provides BSPs for all of our kits, as well as generic BSPs for each chip architecture, to use as a starting point. For example, you can see generic BSPs in supported device. When working with your own hardware, you can modify an Infineon BSP to match that hardware, or you can create a BSP by specifying the device(s) it contains. The BSP Assistant helps to simplify the process of creating or modifying a BSP to suit your needs. See the following document how to use BSP Assistant tool.<br>
+
+- [ModusToolbox&#8482; BSP Assistant user guide](https://www.infineon.com/ModusToolboxBSPAssistant)
+- [MODUSTOOLBOX&#8482; USAGE: How to create own BSP using BSP-assistant tool for TRAVEO T2G/PSOC 4 HV](https://www.infineon.com/assets/row/public/documents/10/56/infineon-infineon-002-36696-0a-v-how-to-create-own-bsp-using-bsp-assistant-tool-training-en-training-en.pdf)
 
 ## Evaluation kit
 The code examples support the following types of boards: <br>
